@@ -22,6 +22,7 @@ A polished Java Swing memory game: briefly memorize the order of 6 coloured cups
 * Localized UI strings
 * Detailed stats (average attempts, fastest 5 times)
 
+
 #
 
 <img width="1204" height="752" alt="image" src="https://github.com/user-attachments/assets/f609c5a3-2362-46d1-9c9c-41a61b630396" />
